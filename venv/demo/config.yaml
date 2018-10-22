@@ -1,0 +1,4 @@
+#файл конфигурации по умолчанию
+
+site_name: 'Nexus site'
+database_url: 'postgresql://postgres:postgres@localhost:5432/nexus'
